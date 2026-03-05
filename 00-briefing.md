@@ -62,7 +62,6 @@ Conformidade e governança de dados: classificar dados (pessoal/sensível), pol�
 **5. Usuários**
 
 Usuário final: pessoa física interessada em organizar e controlar suas finanças pessoais por meio do registro de receitas e despesas.
-
  <br> <br>
 **6. Entregáveis**
 
