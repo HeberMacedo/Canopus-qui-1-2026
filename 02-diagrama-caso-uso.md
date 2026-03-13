@@ -11,4 +11,4 @@ Liste os casos de uso identificados (Ex.: Realizar Login, Consultar Livro, Efetu
 
 ## 4. Diagrama UML
 Adicione aqui a imagem do diagrama:  
-![Diagrama de casos de uso](https://files.fm/u/gjsxe86wr8)
+![Diagrama de casos de uso](https://github.com/pxmarco/Canopus-qui-1-2026/blob/main/CasoDeUsoCanopus.jpg)
