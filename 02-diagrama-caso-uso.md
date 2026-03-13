@@ -10,5 +10,4 @@ Usuário.
 Liste os casos de uso identificados (Ex.: Realizar Login, Consultar Livro, Efetuar Empréstimo).  
 
 ## 4. Diagrama UML
-Adicione aqui a imagem do diagrama:  
 ![Diagrama de casos de uso](https://github.com/pxmarco/Canopus-qui-1-2026/blob/main/CasoDeUsoCanopus.jpg)
