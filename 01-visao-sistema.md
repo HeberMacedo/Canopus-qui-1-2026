@@ -41,6 +41,9 @@ Cadastrar receitas (Registrar entradas financeiras informando categoria, data e 
 Cadastrar despesas (Registrar saídas financeiras classificando como fixa ou variável e informando categoria da despesa, data e valor).
 
 
+Cadastrar reservas financeiras (Registrar reservas financeiras informando categoria da receita, data e valor).
+
+
 Editar e excluir registros financeiros (Permitir ao usuário modificar ou remover registros cadastrados de entrada, saída ou alertas, garantindo melhor gerenciamento).
 
 
